@@ -1,0 +1,17 @@
+h1{
+    color:white;
+    background-color:purple;
+    text-align: center;
+    padding: 20px;
+  }
+
+section{
+    display:flex;
+    
+}
+
+article{
+    background-color:lightblue;
+    padding: 10px;
+    margin: 5px;
+}
